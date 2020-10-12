@@ -105,7 +105,7 @@ namespace ASCII_file_formatting
                             i++;
                         }
                     }
-                    catch (Exception ex) { }
+                    catch{ }
                 }
             }
             catch (Exception ex)
@@ -143,7 +143,7 @@ namespace ASCII_file_formatting
                 input_file_content.Clear();
                 input_file_path_text.Clear();
             }
-            catch (Exception ex) { }
+            catch{ }
         }
 
         private void saveAs_but_Click(object sender, EventArgs e)
@@ -170,7 +170,7 @@ namespace ASCII_file_formatting
                     fileStream.Close();
                 }
             }
-            catch (Exception ex) { }
+            catch{ }
 
         }
     }
