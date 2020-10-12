@@ -1,0 +1,10 @@
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\bin\Debug\ASCII file formatting.exe.config
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\bin\Debug\ASCII file formatting.exe
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\bin\Debug\ASCII file formatting.pdb
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Debug\ASCII file formatting.csprojAssemblyReference.cache
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Debug\ASCII_file_formatting.Properties.Resources.resources
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Debug\ASCII file formatting.csproj.GenerateResource.cache
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Debug\ASCII file formatting.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Debug\ASCII file formatting.exe
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Debug\ASCII file formatting.pdb
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Debug\ASCII_file_formatting.ASCII_Formatting.resources

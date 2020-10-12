@@ -1,0 +1,20 @@
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.exe.config
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.exe
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.pdb
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII_file_formatting.ASCII_Formatting.resources
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII_file_formatting.Properties.Resources.resources
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csproj.GenerateResource.cache
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.exe
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.pdb
+C:\Users\EGOR\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csprojAssemblyReference.cache
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.exe.config
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.exe
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.pdb
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csprojAssemblyReference.cache
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII_file_formatting.ASCII_Formatting.resources
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII_file_formatting.Properties.Resources.resources
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csproj.GenerateResource.cache
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csproj.CoreCompileInputs.cache
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.exe
+D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.pdb
