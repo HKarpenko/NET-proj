@@ -42,10 +42,12 @@ namespace ASCII_file_formatting
                     using (StreamReader reader = new StreamReader(fileStream))
                     {
                         string line;
-                        while ((line = reader.ReadLine()) != null)
+                        for(int i=0; (line = reader.ReadLine()) != null ; i++)
+                        //while ((line = reader.ReadLine()) != null)
                         {
                             array_input_content.Add(line);
-                            input_file_content.Text += line + "\r\n";
+                            if(i<100)
+                                input_file_content.Text += line + "\r\n";
                         }
                     }
                     fileStream.Close();
@@ -101,7 +103,8 @@ namespace ASCII_file_formatting
                             out_line += "," + ellipsoidalHeight(GGA[9], GGA[11], antenna_height); //Ellipsoidal height
 
                             array_output_content.Add(out_line);
-                            text_output_file.Text += out_line + "\r\n";
+                            if (i < 200)
+                                text_output_file.Text += out_line + "\r\n";
                             i++;
                         }
                     }

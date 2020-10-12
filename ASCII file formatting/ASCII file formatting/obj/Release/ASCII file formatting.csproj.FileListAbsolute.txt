@@ -18,3 +18,13 @@ D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\
 D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csproj.CoreCompileInputs.cache
 D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.exe
 D:\с ПК\source\repos\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.pdb
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.exe.config
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.exe
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\bin\Release\ASCII file formatting.pdb
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csprojAssemblyReference.cache
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\obj\Release\ASCII_file_formatting.ASCII_Formatting.resources
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\obj\Release\ASCII_file_formatting.Properties.Resources.resources
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csproj.GenerateResource.cache
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.csproj.CoreCompileInputs.cache
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.exe
+C:\Users\EGOR\Documents\GitHub\NET proj\ASCII file formatting\ASCII file formatting\obj\Release\ASCII file formatting.pdb
